@@ -365,4 +365,4 @@ For details see:
 * LICENSE.md
 * INTELLECTUAL_PROPERTY.md
 
-© 2025–2026 Irina Leonova. All rights reserved.
+Copyright © 2025–2026 Irina Leonova (GitHub: irina-leo). All rights reserved.
