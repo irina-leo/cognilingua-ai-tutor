@@ -354,3 +354,15 @@ AI Product Developer / Prompt Engineer / Telegram Bot Developer
 * Capstone — проектирование
 
 Текущий статус: MVP готов к развитию и масштабированию.
+## Intellectual Property
+
+This repository is published for portfolio purposes only.
+
+The educational methodology, AI mentor system, learning architecture, prompt design and documentation are proprietary intellectual property of the author.
+
+For details see:
+
+* LICENSE.md
+* INTELLECTUAL_PROPERTY.md
+
+© 2025–2026 Irina Leonova. All rights reserved.
