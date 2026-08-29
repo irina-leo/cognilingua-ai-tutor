@@ -6,7 +6,7 @@ CogniLingua
 
 AI Tutor for Learning English through Data Science Cases
 
-Author: Irina Leonova
+Author: Irina Fomenko
 
 Year: 2025–2026
 
